@@ -1,0 +1,74 @@
+body {
+	font-size: 16px;
+	color: black;
+	background: white;
+}
+
+
+/*** HEADER ***/
+
+#head-navigate {
+
+	background: gray;
+	border-radius: 0;
+	border: 2px solid black;
+}
+
+a.navbar-brand h1 {
+	color: black;
+	font-size: 1.5em;
+	font-weight: bold;
+	margin: 0;
+}
+
+button.navbar-toggle  {
+	border-color: black !important;
+	}
+
+.navbar-toggle span  {
+	background-color: black !important;
+	}
+
+/*** END HEADER ***/
+
+/*** MENU***/
+#menu-collapse {
+	padding: 0;
+	}
+
+#menu-collapse ul {
+	margin:0;
+	}
+
+#menu-collapse li {
+	text-align: center;
+	background: yellow;
+	border-bottom: 1px solid black;
+	margin:0;
+}
+
+li:last-child {
+	border-bottom: 0;
+}
+
+/*** END MENU***/
+
+/***GRID LAYOUT***/
+
+ .row section {
+	background: gray;
+	padding: 10px 20px;
+	margin-bottom: 30px;
+}
+
+.row section a {
+	color:black;
+	font-weight: bold;
+}
+
+.centrum {text-align: center;}
+
+
+
+
+
