@@ -41,11 +41,9 @@ button.navbar-toggle  {
 	}
 
 #menu-collapse li {
-	text-align: center;
 	background: yellow;
 	border-bottom: 1px solid black;
-	margin:0;
-}
+	}
 
 li:last-child {
 	border-bottom: 0;
