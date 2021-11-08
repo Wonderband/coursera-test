@@ -18,8 +18,11 @@ body {
 box-sizing: border-box;
 }
 
-
-
+section {
+	border: 1px solid black;
+	margin-top: 20px;
+	background-color: grey;
+}
 
 
 @media (min-width: 992px) {
